@@ -1,13 +1,28 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+html {
+  background-color: darkslategray
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.team {
+  background-color: white;
+  display: inline-block;
+  border-radius: 8px;
+  position: relative;
+  padding: 100px;
+  border-style: groove;
+  border-color: black;
+  margin: 5px;
+}
+
+.team h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  display: inline-block;
+  padding : 10px;
+  margin : 0;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+
+.searchPlayer h3{
+  font-family: Georgia, 'Times New Roman', Times, serif;
 }
