@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dream-team-game/static/css/main.716bcedf.chunk.css",
+    "main.js": "/dream-team-game/static/js/main.95a6ccea.chunk.js",
+    "main.js.map": "/dream-team-game/static/js/main.95a6ccea.chunk.js.map",
+    "runtime-main.js": "/dream-team-game/static/js/runtime-main.fb4401af.js",
+    "runtime-main.js.map": "/dream-team-game/static/js/runtime-main.fb4401af.js.map",
+    "static/js/2.e647cc68.chunk.js": "/dream-team-game/static/js/2.e647cc68.chunk.js",
+    "static/js/2.e647cc68.chunk.js.map": "/dream-team-game/static/js/2.e647cc68.chunk.js.map",
+    "index.html": "/dream-team-game/index.html",
+    "precache-manifest.48f9471e09ebf7dc486d1b2773d384e2.js": "/dream-team-game/precache-manifest.48f9471e09ebf7dc486d1b2773d384e2.js",
+    "service-worker.js": "/dream-team-game/service-worker.js",
+    "static/css/main.716bcedf.chunk.css.map": "/dream-team-game/static/css/main.716bcedf.chunk.css.map",
+    "static/js/2.e647cc68.chunk.js.LICENSE.txt": "/dream-team-game/static/js/2.e647cc68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb4401af.js",
+    "static/js/2.e647cc68.chunk.js",
+    "static/css/main.716bcedf.chunk.css",
+    "static/js/main.95a6ccea.chunk.js"
+  ]
+}
